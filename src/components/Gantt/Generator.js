@@ -14,7 +14,7 @@ class Generator {
     let tomorrowId = this.addRecord(test, 1, data);
     // this.addLink(nowId,tomorrowId,links)
 
-    for (let i = 1; i < 1000; i++) {
+    for (let i = 1; i < 1000000; i++) {
       this.addRecord(
         this.randomDate(new Date(2016, 9, 1), new Date(2020, 9, 1)),
         i,
