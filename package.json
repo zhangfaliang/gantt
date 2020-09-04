@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "gantt-for-react": "^0.2.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-gantt-timeline": "^0.4.0",
